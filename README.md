@@ -13,3 +13,13 @@ I'm Nagham Maali
 
 I’m currently a computer engineering student at Birzeit university
 
+Skills:
+C
+Python 
+Java
+HTML 
+CSS
+Matlab 
+Database management and SQL
+Networks and servers 
+Verilog HDL 
