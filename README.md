@@ -25,10 +25,15 @@ Skills:
 
 • CSS
 
-• Matlab 
+c Matlab 
 
 • Database management and SQL
 
 • Networks and servers 
 
 • Verilog HDL 
+
+• PSpice and Electricity
+
+
+
