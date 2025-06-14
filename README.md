@@ -29,7 +29,7 @@ c Matlab
 
 • Database management and SQL
 
-• Networks and servers 
+• Computer Networks
 
 • Verilog HDL 
 
