@@ -25,7 +25,7 @@ Skills:
 
 • CSS
 
-c Matlab 
+• Matlab 
 
 • Database management and SQL
 
