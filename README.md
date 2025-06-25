@@ -35,5 +35,7 @@ Skills:
 
 • PSpice and Electricity
 
+• Operating System 
+
 
 
