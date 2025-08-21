@@ -37,5 +37,8 @@ Skills:
 
 • Operating Systems 
 
+• Mathematics 
+
+
 
 
