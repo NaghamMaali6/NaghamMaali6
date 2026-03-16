@@ -33,6 +33,12 @@ Skills:
 
 • Verilog HDL 
 
+• communication systems
+
+• computer Architecture
+
+• MIPS Assembly
+
 • PSpice and Electricity
 
 • Operating Systems 
