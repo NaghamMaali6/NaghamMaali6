@@ -71,7 +71,7 @@ Skills:
 • Linux
 
 
-CV: 
+CV: https://docs.google.com/document/d/1J3g8wQl6QBsitLXijMtsudriTJfRBMFDWR_XhntGyFI/edit?usp=sharing
 
 
 
