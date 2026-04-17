@@ -13,6 +13,10 @@ I'm Nagham Maali
 
 I’m currently a computer engineering student at Birzeit university
 
+Emails:
+naghammaali77@gmail.com
+11.6.2003N@gmail.com
+
 Skills:
 
 • C
