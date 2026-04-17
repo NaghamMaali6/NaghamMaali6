@@ -66,6 +66,10 @@ Skills:
 
 • Time Management 
 
+• Electronic and digital circuits
+
+• Linux
+
 
 
 
