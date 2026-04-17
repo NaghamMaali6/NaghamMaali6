@@ -19,6 +19,7 @@ naghammaali77@gmail.com
 
 11.6.2003N@gmail.com
 
+
 Skills:
 
 • C
