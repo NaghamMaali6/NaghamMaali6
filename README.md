@@ -52,6 +52,21 @@ Skills:
 
 • Mathematics 
 
+• Cryptography 
+
+• G Suite
+
+• MS Office
+
+• Adaptability 
+
+• Work under pressure
+
+• Reporting 
+
+• Time Management 
+
+
 
 
 
