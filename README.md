@@ -71,6 +71,7 @@ Skills:
 • Linux
 
 
+CV: 
 
 
 
