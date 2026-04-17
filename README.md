@@ -28,9 +28,9 @@ Skills:
 
 • Java
 
-• HTML 
+• HTML & CSS
 
-• CSS
+• AI
 
 • Matlab 
 
